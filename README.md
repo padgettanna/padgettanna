@@ -12,9 +12,9 @@ I’m currently expanding my skill set through the Microsoft Software & Systems 
 - Portfolio and production-ready personal projects
 
 ### Background 
-- Software Engineer  
-- Passion for building reliable systems that scale and make sense
+- Software Engineer focused on scalable, reliable systems
 - U.S. Navy Veteran 
 
 ### Find me here
 - LinkedIn: https://www.linkedin.com/in/anna-padgett-swe/
+- Resume: https://padgettanna.github.io
