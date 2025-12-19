@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GitHub banner.png" alt="Anna Padgett banner" width="100%" />
+  <img src="GitHub banner.png" alt="Anna Padgett banner 1280x320" width="100%" />
 </p>
 
 ### Hi, I’m Anna 👋
