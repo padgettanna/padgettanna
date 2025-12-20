@@ -16,15 +16,5 @@ I’m currently expanding my skill set through the Microsoft Software & Systems 
 - U.S. Navy Veteran 
 
 ### Find me here
-- <a href="https://www.linkedin.com/in/anna-padgett-swe/"
-   target="_blank"
-   rel="noopener noreferrer"
-   style="color:#0b5f73; font-weight:600;">
-   LinkedIn
-   </a> 
-- <a href="https://padgettanna.github.io"
-   target="_blank"
-   rel="noopener noreferrer"
-   style="color:#0b5f73; font-weight:600;">
-   Resume
-   </a>
+- <a href="https://www.linkedin.com/in/anna-padgett-swe/">LinkedIn</a> 
+- <a href="https://padgettanna.github.io">Resume</a>
