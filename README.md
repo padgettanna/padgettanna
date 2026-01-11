@@ -17,4 +17,5 @@ I’m currently expanding my skill set through the Microsoft Software & Systems 
 
 ### Find me here
 - <a href="https://www.linkedin.com/in/anna-padgett-swe/">LinkedIn</a> 
-- <a href="https://padgettanna.github.io">Resume</a>
+- <a href="https://padgettanna.github.io">Portfolio</a>
+- <a href="https://padgettanna.github.io/resume.html">Resume</a>
